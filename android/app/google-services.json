@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971012162520",
+    "firebase_url": "https://purjus-domo-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "purjus-domo",
+    "storage_bucket": "purjus-domo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971012162520:android:187a3e49be65a35410e8ad",
+        "android_client_info": {
+          "package_name": "com.example.smatch_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971012162520-f0hu3l2k39j902lbgt14kg34633b3gtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtH-2mwyKUDdulf_1V7eEry7twEI6LiXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971012162520-f0hu3l2k39j902lbgt14kg34633b3gtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
